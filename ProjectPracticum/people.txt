@@ -1,4 +1,0 @@
-Tom 23
-Bob 25
-Alice 22
-Kate 31
