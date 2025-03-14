@@ -1,8 +1,6 @@
 #include "Field.h"
 #include "Snake.h"
-//константы в оттдельный файл
-
-const DWORD SNAKESPEED = 250; // тоже перенести
+#include "Сonstants.h"
 
 int main()
 {

@@ -1,7 +1,5 @@
 #include "Snake.h"
 
-
-
 Snake::Snake()
 {
 	direction = Direction::LEFT;
